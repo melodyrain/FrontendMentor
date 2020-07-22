@@ -1,1 +1,1 @@
-https://www.frontendmentor.io
+Challenges taken from: frontendmentor.io
