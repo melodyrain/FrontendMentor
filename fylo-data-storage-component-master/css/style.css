@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(229, 57%, 11%);
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    background-image: url("../images/bg-desktop.png");
+    background-repeat: no-repeat;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 300px 500px;
+}
+
+.grid-container > div {
+
+    background: hsl(228, 56%, 26%);
+    margin: 20px;
+    padding: 1em;
+}
+
+.logo {
+    border-radius: 10px 100px 10px 10px;
+}
+
+.storage {
+    border-radius: 10px;
+}
+
+.icons {
+    background-color: hsl(229, 57%, 11%);
+    padding: 10px;
+    border-radius: 10px;
+}
